@@ -1,4 +1,4 @@
-# ![Japan-O-Files](http://static.tumblr.com/8otujnu/xuknzs8oz/japan-o-files.png "Japan-O-Files")
+# ![Japan-O-Files](\media\japan-o-files.png "Japan-O-Files")
 
 [Japanese README (日本語ドキュメント)](#)
 
@@ -63,10 +63,8 @@ Tatoeba is a collection of sentences and translations. Some of the example sente
 Japaneasy (https://github.com/rewonc/japaneasy)
 A package that wraps the API of the online Japanese dictionary WWWJDIC (http://www.edrdg.org/cgi-bin/wwwjdic/wwwjdic?1C) and includes automatic switching between WWWJDIC mirrors. Created by Rewon Child.
 
-Taka Kanji Database
+Taka Kanji Database(http://sourceforge.net/projects/taka/)
 A kanji database with over 2000 entries (approximately every basic/regular-use kanji - currently we are working on adding those that are missing). Created by Matthew J. Francis.
-
-## References (http://sourceforge.net/projects/taka/)
 
 ---
 
