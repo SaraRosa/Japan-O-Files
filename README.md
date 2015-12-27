@@ -46,8 +46,6 @@ Nothing here yet.
 
 ## Acknowledgements
 
-Acknowledgements:
-
 WWWJDIC (http://www.edrdg.org/cgi-bin/wwwjdic/wwwjdic?1C)
 Our dictionary gets most of its definitions (see: common words and kanji) from Jim's Breen WWWJDIC. Used in conformance with its licence.
 
@@ -65,6 +63,22 @@ A package that wraps the API of the online Japanese dictionary WWWJDIC (http://w
 
 Taka Kanji Database(http://sourceforge.net/projects/taka/)
 A kanji database with over 2000 entries (approximately every basic/regular-use kanji - currently we are working on adding those that are missing). Created by Matthew J. Francis.
+
+## TODO
+
+Japan-O-Files is a relatively new project and, as such, needs some improving. We're looking into adding the following features/fix the following problems:
+- Kanji lookup. This is top priority, and we'd love to make it happen soon. (✓ - as of 12/27/2015)
+- Audio files. As of now, we make use of the Speech Synthesis API. We plan to (hopefully) change that.
+- Format and minify (and beautify, maybe?) the code. Also, structure everything better. It's sort of a mess right now.
+- Proper names dictionary.
+- Improve our search algorithm. Really, it needs some improvement.
+- Add a comments section (a forum, sort of?) powered by Disqus.
+- And so much more... 
+
+## Contributors
+
+Sara Rosa(https://github.com/SaraRosa): Coder (HTML, CSS, Javascript). Came up with this idea after realizing that most dictionaries were lacking much Japanese slang. Former Japanology student. Philologist and polyglot. Loves a good read.
+Ryosuke Aihara: Japanese linguist. Lends a hand from time to time. Has no knowledge of computers whatsoever.
 
 ---
 
