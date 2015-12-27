@@ -6,9 +6,9 @@
 
 Japan-O-Files is a free online Japanese-English slang dictionary, created by former Japanology student Sara Rosa González and native Japanese speaker Ryosuke Aihara, and powered by Tumblr.
 
-About Japan-O-Files:
+Features:
   - Pure HTML, CSS and Javascript. Uses JQuery.
-  - Designed to work with Tumblr.
+  - Built with Tumblr by a Tumblr... er?
   - Appearance easily customizable. 
   - Fast and responsive.
 
@@ -46,22 +46,22 @@ Nothing here yet.
 
 ## Acknowledgements
 
-WWWJDIC (http://www.edrdg.org/cgi-bin/wwwjdic/wwwjdic?1C)
+**WWWJDIC** (http://www.edrdg.org/cgi-bin/wwwjdic/wwwjdic?1C)
 Our dictionary gets most of its definitions (see: common words and kanji) from Jim's Breen WWWJDIC. Used in conformance with its licence.
 
-WanaKana (https://github.com/WaniKani/WanaKana)
+**WanaKana** (https://github.com/WaniKani/WanaKana)
 This site makes use of Wanakana, a Javascript library that provides utilities for converting Romaji <―> Kana. Created by Mims H. Wright and sponsored by Tofugu and WaniKani.
 
-RakutenMA (https://github.com/rakuten-nlp/rakutenma)
+**RakutenMA** (https://github.com/rakuten-nlp/rakutenma)
 Rakuten MA is a morphological analyzer (word segmentor + PoS Tagger) for Chinese and Japanese written purely in JavaScript, whose developers would like to thank Satoshi Sekine, Satoko Marumoto, Yoichi Yoshimoto, Keiji Shinzato, Keita Yaegashi, and Soh Masuko for their contribution to this project. Created by Masato Hagiwara and sponsored by Rakuten and Rakuten Institute of Technology.
 
-Tatoeba (https://tatoeba.org/eng/)
+**Tatoeba** (https://tatoeba.org/eng/)
 Tatoeba is a collection of sentences and translations. Some of the example sentences and translations come from this site.
 
-Japaneasy (https://github.com/rewonc/japaneasy)
+**Japaneasy** (https://github.com/rewonc/japaneasy)
 A package that wraps the API of the online Japanese dictionary WWWJDIC (http://www.edrdg.org/cgi-bin/wwwjdic/wwwjdic?1C) and includes automatic switching between WWWJDIC mirrors. Created by Rewon Child.
 
-Taka Kanji Database(http://sourceforge.net/projects/taka/)
+**Taka Kanji Database** (http://sourceforge.net/projects/taka/)
 A kanji database with over 2000 entries (approximately every basic/regular-use kanji - currently we are working on adding those that are missing). Created by Matthew J. Francis.
 
 ## TODO
@@ -77,8 +77,8 @@ Japan-O-Files is a relatively new project and, as such, needs some improving. We
 
 ## Contributors
 
-Sara Rosa(https://github.com/SaraRosa): Coder (HTML, CSS, Javascript). Came up with this idea after realizing that most dictionaries were lacking much Japanese slang. Former Japanology student. Philologist and polyglot. Loves a good read.
-Ryosuke Aihara: Japanese linguist. Lends a hand from time to time. Has no knowledge of computers whatsoever.
+**Sara Rosa** (https://github.com/SaraRosa): Coder (HTML, CSS, Javascript). Came up with this idea after realizing that most dictionaries were lacking much Japanese slang. Former Japanology student. Philologist and polyglot. Loves a good read.
+**Ryosuke Aihara**: Japanese linguist. Lends a hand from time to time. Has no knowledge of computers whatsoever.
 
 ---
 
