@@ -1,4 +1,4 @@
-# ![Japan-O-Files](\media\japan-o-files.png "Japan-O-Files")
+# ![Japan-O-Files](https://github.com/SaraRosa/Japan-O-Files/blob/master/media/japan-o-files.png "Japan-O-Files")
 
 [Japanese README (日本語ドキュメント)](#)
 
